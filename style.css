@@ -1,0 +1,11 @@
+.self {
+    display: flex;
+    background-color: teal;
+    justify-content: space-between;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    position: relative
+}
